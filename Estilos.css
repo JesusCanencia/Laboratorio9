@@ -1,0 +1,7 @@
+/*Estilo para el encabezado*/
+header{
+    background-color: aqua;
+    padding: 20px;
+    text-align: center;
+    color: blue;
+}
